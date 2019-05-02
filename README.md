@@ -1,7 +1,7 @@
 # github-qx9tmg
 
-NG Conf 2019 Labs: Web Components with Angular
+NG Conf 2019 Labs: Web Components with Angular by Manfred Steyer
 
-reference https://tinyurl.com/elements-labs
+Reference https://tinyurl.com/elements-labs
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/github-qx9tmg)
