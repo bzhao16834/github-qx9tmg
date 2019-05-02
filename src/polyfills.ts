@@ -75,3 +75,8 @@ import 'zone.js/dist/zone';  // Included with Angular CLI.
 //   document.write(`<script src="/assets/webcomponentsjs/webcomponents-loader.js"></script>`);
 // }
 
+import '@webcomponents/webcomponentsjs/custom-elements-es5-adapter.js';
+
+if (!window['customElements']) {
+   document.write(`<script src="/assets/webcomponentsjs/webcomponents-loader.js"></script>`);
+}
